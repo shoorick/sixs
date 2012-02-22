@@ -1,0 +1,16 @@
+sixs (acronym for SImple eXtensible Sites) is a micro web framework written in PHP.
+
+* abandoned since 2004 but some sites made with sixs still working.
+
+* designed for small sites and does not use any DBMS because site contents stored in plain text files but it’s possible to use some modules for interacting with DBMS.
+
+* is cross-platform: tested with PHP 4 and 5, FreeBSD 4–7 and Windows 2000.
+
+* you can edit content of your site via web interface or by files editing.
+
+* you can make heterogenous sites with sixs: some pages may be a static HTML pages, some pages may be produced via CGI scripts etc.
+
+
+Alexander Sapozhnikov
+http://shoorick.ru/
+shoorick@cpan.org
